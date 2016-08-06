@@ -59,7 +59,7 @@ console.log("Question 2");
 
 
 
-// 6. Create an simple alert stating anything you wish. 
+// 6. Create an simple alert stating anything you wish.
 
 
 
@@ -87,10 +87,10 @@ console.log(output);
 
 
 
-// 9. Create an alert that displays the response from a prompt. You can prompt the user for any kind of fun response. 
+// 9. Create an alert that displays the response from a prompt. You can prompt the user for any kind of fun response.
 console.log("Question 9");
-var userResponse = prompt("What is your favorite sports team?","e.g. Fort Collins Microbrewers, Boulder Hipsters...")
-window.alert("Really? " + userResponse + "?" + " Go " + user response + "! I guess...")
+var userResponse = prompt("What is your favorite sports team?","e.g. Fort Collins Microbrewers, Boulder Hipsters...");
+window.alert("Really? " + userResponse + "?" + " Go " + user response + "! I guess...");
 
 
 
@@ -108,4 +108,4 @@ console.log(area " inches");
 
 
 
-// 11. Prompt a user for their name. Find the length (number of characters) of their name and display the result in the console. 
+// 11. Prompt a user for their name. Find the length (number of characters) of their name and display the result in the console.
